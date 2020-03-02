@@ -1,0 +1,47 @@
+Book 1
+Reading 1: None 
+Reading 2: 175 - 192
+Reading 3: 227 - 249
+Reading 4: 263 - 266
+Reading 5: 287- 293
+Reading 6: 374 - 403
+Book 2
+Reading 7: 42 - 51
+Reading 8: 100 - 109
+Reading 9: 149 - 164
+Reading 10: 209 - 216
+Reading 11: 263 - 266
+Book 3
+Reading 12: 54 - 61
+Reading 13: 147 - 162
+Reading 14: 211 - 221
+Reading 15: 287 - 296
+Reading 16: 336 - 341
+Reading 17: 409 - 411
+Book 4
+Reading 18: 35 - 44
+Reading 19: 108 - 126
+Reading 20: 212 - 241
+Reading 21: 294 - 302
+Reading 22: 328 - 334
+Reading 23: 271 - 381
+Reading 24: 446 - 459
+Reading 25: 530 - 532
+Book 5
+Reading 26: 77 - 88
+Reading 27: 162 - 170
+Reading 28: 221 - 238
+Reading 29: 274 - 283
+Reading 30: 326 - 333
+Reading 31: 386 - 395
+Reading 32: 462 - 464
+Book 6
+Reading 33: 95 - 111
+Reading 34: 165 - 172
+Reading 35: 236 - 244
+Reading 36: 278 - 288
+Reading 37 None
+Reading 38: 367
+
+
+
